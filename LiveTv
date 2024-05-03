@@ -38,7 +38,12 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",NTV
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangladesh TV",Green TV
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
+
+
 Bangladesh News 
+
 
 #EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh News" tvg-logo="",Dbc News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
