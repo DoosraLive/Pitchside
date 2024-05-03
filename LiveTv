@@ -72,14 +72,65 @@ https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 
 International News
 
-#EXTINF:-1 tvg-logo="" group-title="INTERNASIONAL NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN International Europe 
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="INTERNASIONAL NEWS", DW English
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="INTERNATIONAL NEWS", DW English
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="INTERNASIONAL NEWS", Aljazeera HD
+#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="INTERNATIONAL NEWS", Aljazeera HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="" group-title="INTERNASIONAL NEWS",  Reuters 
+#EXTINF:-1 tvg-logo="" group-title="INTERNATIONAL NEWS",  Reuters 
 https://i.mjh.nz/SamsungTVPlus/DEBD4900001QV.m3u8
 
+
+Cricket 🏏 
+
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", IPL 1 (Star Sports1) 1
+http://watchindia.net:8880/live/83023/62335/2186.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 1
+https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 3
+https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD
+https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Ban Vs Zim 
+https://1rdk.short.gy/Fancode-Worldwide/Ban-vs-Zim/Manik-Chora-Duchi/Join-TG-@HimelOP_Official.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Sky Sports Cricket HD
+https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Super Sports Cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", ATN AFG TV
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Event TV HD
+https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",TPREMIER SPORTS 2
+http://202.21.104.6:88/sps-play/index.m3u8
+
+
+Football ⚽ 
+
+EXTINF:-1 tvg-logo="" group-title="Football ⚽",  Sports HD USA EPL
+https://ovo.eelov.com/live/n-1/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Setanta Sports HD UA EPL
+http://ott.watch/stream/FNX4IGHIK4/313.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Матч! Футбол 1 HD UCL 
+http://ott.watch/stream/FNX4IGHIK4/130.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Матч! Футбол 2 HD UCL
+http://ott.watch/stream/FNX4IGHIK4/142.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Матч! Футбол 3 HD UCL
+http://ott.watch/stream/FNX4IGHIK4/185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Матч ТВ HD News
+http://ott.watch/stream/FNX4IGHIK4/169.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",   FIFA+
+https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",  CCTV 5 Sports
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",  Eleven Sports 2
+https://kusnadipepenk.github.io/ntn/elesp2.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Eleven Sports 3
+https://kusnadipepenk.github.io/ntn/elesp3.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Canal Sports 3
+http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", TNT Sport 3
+https://ovo.eelov.com/live/n-3/chunks.m3u8
 
 
