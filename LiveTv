@@ -57,26 +57,20 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 https://varun-iptv.netlify.app/m3u/TLC.m3u8
 #EXTINF:-1 tvg-logo="http://11plus.live/img/animalplanent.jpg" group-title="Infotainment Channels", Animal Planet HD
 https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel XP English(BD)
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel(BD)
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels" tvg-logo="http://tv.bapacom.net/assets/images/Travel%20XP1664976451.png", Travel Channel
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Travel-Channel.m3u8
-
 #EXTINF:-1 tvg-logo=" " group-title="Infotainment Channels",Gusto TV
 https://i.mjh.nz/SamsungTVPlus/CABB2500021YQ.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment Channels", Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://asianfoodnetwork.com/etc.clientlibs/afn/clientlibs/clientlib-site/resources/images/common/afn-logo.png" group-title="Infotainment Channels",Asian Food Network
 https://varun-iptv.netlify.app/m3u/Food%20Network.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TH5rfJM/SMITHSONIANCHANNEL.png" group-title="Infotainment Channels", Adventure Earth
 https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wonder (L*)
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Wonder
 https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",   BBC Food
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 
