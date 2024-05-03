@@ -8,11 +8,18 @@ https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh TV" tvg-logo="",Dbc News
+#EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh News" tvg-logo="",Dbc News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Jamuna TV"tvg-group="Bangladesh TV" tvg-logo="",Jamuna TV
+#EXTINF:-1 tvg-id="Jamuna TV"tvg-group="Bangladesh News" tvg-logo="",Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
+https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+
+#EXTINF:-1 tvg-id="Sky Sports Cricket"tvg-group="Cricket" tvg-logo="",Sky sports Cricket 
+
+https://crichd.site/cn22/ts.php?ts=https://fee.zplayerhd.xyz:8443/xpogo/hls/sOjuf8h_saTrwW4plafQ8g/1714768733/skyscric-33680.ts
