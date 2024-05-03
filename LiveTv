@@ -18,8 +18,10 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxNToxOSBQTSZoYXNoX3ZhbHVlPXlTSE9Zd3VhencvSmVEV0VwM0tiQkE9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1 tvg-id="ATN Bangla"tvg-group="Bangladesh TV" tvg-logo="",ATN Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxNzowMiBQTSZoYXNoX3ZhbHVlPUdicG4yVWhPMDhranJIUU4yRWRMTFE9PSZ2YWxpZG1pbnV0ZXM9ND
-
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Nexus TV
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",NTV
+http://cdn01.palki.tv/live/NTV-M/index.m3u8
 Bangladesh News 
 
 #EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh News" tvg-logo="",Dbc News
@@ -28,7 +30,10 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh News",SOMOY TV
+http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh News",News 24
+http://cdn01.palki.tv/live/News24-M/index.m3u8
 
 Indian Movie 
 
