@@ -23,3 +23,12 @@ https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket"tvg-group="Cricket" tvg-logo="",Sky sports Cricket 
 
 https://crichd.site/cn22/ts.php?ts=https://fee.zplayerhd.xyz:8443/xpogo/hls/sOjuf8h_saTrwW4plafQ8g/1714768733/skyscric-33680.ts
+
+#EXTINF:-1 tvg-id="Zee Cinema"tvg-group="Indian Movie" tvg-logo="",Zee Cinema 
+http://170.254.18.107/ZEECINEMA/index.m3u8
+
+#EXTINF:-1 tvg-id="Enterr10"tvg-group="Indian Movie" tvg-logo="",Enterr10
+http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
