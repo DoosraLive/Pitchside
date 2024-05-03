@@ -2,6 +2,21 @@
 
 
 
+IPL 2024
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="IPL 2024",T SPORTS HD
+http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="IPL 2024",T SPORTS
+https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",Star Sports 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live English
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live Hindi
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+
+
 Bangladesh TV
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Deepto TV
