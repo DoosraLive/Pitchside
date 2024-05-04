@@ -6,7 +6,7 @@ Contact Us :- https://t.me/doosralivetv
 Live Sports 
 
 #EXTINF:-1 tvg-logo="" group-title="Live Sports", EFL (Arsenal vs Bournemouth)
-
+https://n6.dramaticreadings.com:999/hls/bbtsp1.m3u8?md5=A691ITLcaKPdYoWtQJBEcQ&expires=1714828185
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",IPL 2024 (RCB vs GT)
 https://emdftinya.tinyuri.org/auto/auto2.php
 
@@ -141,7 +141,9 @@ https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels",BBC Food
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", Discovery Bangla
-https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Infotainment Channels", HGTV
+https://dplus.gammacdn.workers.dev/videos/111.m3u8
 
 
 International News
@@ -159,7 +161,10 @@ https://i.mjh.nz/SamsungTVPlus/DEBD4900001QV.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International News",DW News
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dwnews.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="International News",BBC News
-https://lists.iptvgenerate.com/BBC_News.m3u
+http://195.181.175.69:2080/67/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="International News",abc News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 
 
 Islamic Channel 
