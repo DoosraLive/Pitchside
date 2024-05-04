@@ -9,6 +9,8 @@ Live Sports
 https://m3u8us.aepay.shop/OjYz3u8oUYAGU8Snjlj7hQ/1714813835/uk_bts1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",IPL 2024 (RCB vs GT)
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
+http://103.151.60.214:7444/1101/video.m3u8
+
 
 IPL 2024
 
@@ -177,9 +179,9 @@ Cricket 🏏
 http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Star Sports1 HD
 http://watchindia.net:8880/live/83023/62335/2186.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 1
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 1
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 3
+EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 3
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky sports Cricket 
 https://m3u8.aepay.shop/Y0MVfcLSixtG1V0rEpP72w/1714814240/uk_sscricket/index.m3u8
