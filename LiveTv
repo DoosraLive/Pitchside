@@ -8,13 +8,13 @@ IPL 2024
 http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="IPL 2024",T SPORTS
 https://tv5.hoichoi24.com/1101/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",Star Sports 2
 http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",ATN National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live English
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live English
 https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live Hindi
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live Hindi
 https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
 
 
@@ -181,7 +181,7 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 
 Football ⚽ 
 
-#EXTINF:-1 tvg-logo="" group-title="Football ⚽",Super Sports Premier league 
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Premier Sports  
 http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
@@ -193,7 +193,7 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football ⚽", TNT Sport 3
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", TNT Sport 2
 https://ovo.eelov.com/live/n-3/chunks.m3u8
 
 
