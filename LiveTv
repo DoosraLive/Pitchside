@@ -175,6 +175,8 @@ http://watchindia.net:8880/live/83023/62335/2186.m3u8
 https://mahabubur@bunyhlsipla.bunycdn.com/live/720pa.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="",IPL 3
 https://CSKvsLSG@bunyhlsipla.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Sky sports Cricket 
+https://m3u8.aepay.shop/Y0MVfcLSixtG1V0rEpP72w/1714814240/uk_sscricket/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏" tvg-logo="", Astro Crickt HD
 https://cdn-1.bdiptv24.line.pm/live/AstroCricket/index.m3u8
 #EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏",Ban Vs Zim 
@@ -197,8 +199,9 @@ https://n6.dramaticreadings.com:999/hls/jkwillow.m3u8?md5=1JxugJeNGa_zOAdTsMwZNg
 
 Football ⚽ 
 
-#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Premier Sports  
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Premier Sports 2
 http://202.21.104.6:88/sps-play/index.m3u8
+https://m3u8us.aepay.shop/-lmKhYRbusEk51RooWpiZw/1714814309/uk_premiersports2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽",   FIFA+
 https://i.mjh.nz/SamsungTVPlus/CABD1200008JG.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽",  CCTV 5 Sports
@@ -209,9 +212,21 @@ https://kusnadipepenk.github.io/ntn/elesp2.m3u8
 https://kusnadipepenk.github.io/ntn/elesp3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽", Canal Sports 3
 http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",TNT Sports 1
+https://m3u8us.aepay.shop/OjYz3u8oUYAGU8Snjlj7hQ/1714813835/uk_bts1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football ⚽", TNT Sport 2
 https://ovo.eelov.com/live/n-3/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football ⚽",TNT Sports 1
-https://scoresports786.com/chunklist/hlsch1.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS80LzIwMjQgMToyNzowMiBBTSZoYXNoX3ZhbHVlPSsxMUdzc000Qm9VYnZKQ0NhcDJQQVE9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTJhMDI6NmI2Mjo0ZTc6MDo1ZjBlOmNiNTY6NmE0Mjo2OWIyJnN0cm1fbGVuPTU=
+https://m3u8us.aepay.shop/yO9vioBDS5AfEhTlA7PLlg/1714813983/uk_bts2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", TNT Sport 3
+https://m3u8us.aepay.shop/23n-dQG9viJ1kVftNbs2gQ/1714813943/uk_bts3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Sky Main Event 
+https://m3u8.aepay.shop/V5bYr4V1_UME1Eh7ObTn6A/1714814048/uk_ssmain/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",Sky EFL
+https://m3u8.aepay.shop/Q9XmREYVCuZ8Ns-_hnkv2Q/1714813626/uk_ssepl/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽",Sky Football 
+https://m3u8.aepay.shop/0foIvZPGBZ2To6-Kq6jxIA/1714813743/uk_ssfb/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football ⚽", Sky sports Mix
+https://m3u8.aepay.shop/GuqAeuHcuXyfkS9wGrt8Sg/1714814188/uk_ssmix/index.m3u8
+
 
 
