@@ -104,6 +104,9 @@ http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
 http://170.254.18.107/ZEECINEMA/index.m3u8
 
+#EXTINF:-1 tvg-group="Indian Movie" tvg-logo="https://e7.pngegg.com/pngimages/434/503/png-clipart-black-and-white-movie-club-clapboard-art-film-logo-cinema-movie-logo-s-film-action-film.png",Movie Club
+https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
+
 Music Channel 
 
 #EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
