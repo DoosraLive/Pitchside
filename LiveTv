@@ -93,11 +93,11 @@ https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
 https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh News",SOMOY TV
+#EXTINF:-1 tvg-id="SOMOY TV"tvg-logo="" tvg-group="Bangladesh News",SOMOY TV
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh News",News 24
+#EXTINF:-1 tvg-id="News 24"tvg-logo="" tvg-group="Bangladesh News",News 24
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh News", Independent Tv
+#EXTINF:-1 tvg-id="Independent Tv"tvg-logo="" tvg-group="Bangladesh News", Independent Tv
 https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
 
 
