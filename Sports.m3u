@@ -2,42 +2,77 @@
 
 
 
-#EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Deepto TV
-https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="",Ekhon TV
-https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="301" tvg-name="Super Cricket" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="IPL",Super Cricket
+https://catowrap.live/mrgamingsscric.m3u8
+#EXTINF:-1 tvg-id="302" tvg-name="SKY Cricket" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/04/Sky_Sports_Logo_September_2020-1.png" group-title="IPL",Sky Cricket
+https://catowrap.live/mrgamingcric.m3u8
+#EXTINF:-1 tvg-id="308" tvg-name="TNT Sports" tvg-logo="https://www.sportspromedia.com/wp-content/uploads/2023/08/tnt-sports-logo-transparent.png" group-title="IPL",TNT SPorts 1
+https://catowrap.live/mrgamingbtsport1.m3u8
+#EXTINF:-1 tvg-id="303" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Hindi
+https://prod-ent-live-gm.jiocinema.com/out/v1/81e640e5a2c74eb98201959a31a008a3/master.m3u8
+#EXTINF:-1 tvg-id="304" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO English
+https://prod-ent-live-gm.jiocinema.com/out/v1/044ed31ae2974aadb03b5c5e9a67ab06/master.m3u8
+#EXTINF:-1 tvg-id="305" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Tamil
+https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8
+#EXTINF:-1 tvg-id="306" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Telugu
+https://prod-ent-live-gm.jiocinema.com/out/v1/9fdb956e26594b7d90f3641cf16ad597/master.m3u8
+#EXTINF:-1 tvg-id="307" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Kannada
+https://prod-ent-live-gm.jiocinema.com/out/v1/31ee83696bc04e449c76e3c2211ebc4b/master.m3u8
+#EXTINF:-1 tvg-id="310" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",JIO Haryanvi
+https://prod-ent-live-gm.jiocinema.com/out/v1/c714425e406c4be486e914f4062a9810/master.m3u8
+#EXTINF:-1 tvg-id="309" tvg-name="JIO" tvg-logo="https://www.sarkaritel.com/wp-content/uploads/2023/05/30jio_cinema.jpg" group-title="IPL",IPL Test 
+https://edge4-moblive.yuppcdn.net/transsd/smil:peosports.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh News" tvg-logo="",Dbc News
-https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="",SA TV
-https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Jamuna TV"tvg-group="Bangladesh News" tvg-logo="",Jamuna TV
-https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
-
-#EXTINF:-1 tvg-id="Zee Cinema"tvg-group="Indian Movie" tvg-logo="",Zee Cinema 
-http://170.254.18.107/ZEECINEMA/index.m3u8
-
-#EXTINF:-1 tvg-id="Enterr10"tvg-group="Indian Movie" tvg-logo="",Enterr10
-http://longstream-04.ajaah.com/PlayBoxTV/Enter10/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
-
-Fancode Auto Update 
-Must use Indian VPN 
-#EXTINF:-1 tvg-name="Northern Queens vs Western Wonder" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99515" group-title="Malaysian Super Women T20 League, 2024",Northern Queens vs Western Wonder
-https://dai.google.com/linear/hls/event/UYi2bxuHTDeaMS1lqPM0-w/master.m3u8
-#EXTINF:-1 tvg-name="Globelink Weststar vs Golden Sapero Technical Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="98369" group-title="Bukhatir T20 League, 2024",Globelink Weststar vs Golden Sapero Technical Service
-https://dai.google.com/linear/hls/event/DHRuT7ygQDi2MRMr1ImpHw/master.m3u8
-#EXTINF:-1 tvg-name="Friendi Mobile vs NCM Investment-B" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99739" group-title="KCC T20 Challengers Cup, 2nd Edition, 2024",Friendi Mobile vs NCM Investment-B
-https://dai.google.com/linear/hls/event/vdNQ-5XNRw2rKTWbaKD8Gg/master.m3u8
-#EXTINF:-1 tvg-name="Ajman vs Fujairah" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/FanCode_Logo.png" tvg-id="99329" group-title="Emirates D50 Tournament, 2024",Ajman vs Fujairah
-https://dai.google.com/linear/hls/event/yaqqwWhvTEuHfwJmjeFmRA/master.m3u8
-
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 1
+http://watchindia.net:8880/live/23712/28423/2186.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 2
+http://watchindia.net:8880/live/23712/28423/2232.ts
+#EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD 3" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD 3
+http://watchindia.net:8880/live/23712/28423/2456.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 1
+http://watchindia.net:8880/live/23712/28423/1069.ts
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="Star Sports 2 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD 2
+http://watchindia.net:8880/live/23712/28423/2163.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 1
+http://watchindia.net:8880/live/23712/28423/1070.ts
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" group-title="Sports",Star Sports Select 1 HD 2
+http://watchindia.net:8880/live/23712/28423/2292.ts
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" group-title="Sports",Star Sports Select 2 HD
+http://watchindia.net:8880/live/23712/28423/1071.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 1
+http://watchindia.net:8880/live/23712/28423/2090.ts
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket 2" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Cricket.png" group-title="Sports",Sky Sports Cricket 2
+http://watchindia.net:8880/live/23712/28423/2143.ts
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="Sky Sports Main Event" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Main_Event.png" group-title="Sports",Sky Sports Main Event
+http://watchindia.net:8880/live/23712/28423/2091.ts
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="Sky Sports Premier League" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Premier_League.png" group-title="Sports",Sky Sports Premier League
+http://watchindia.net:8880/live/23712/28423/2092.ts
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="Sky Sports Football" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Football.png" group-title="Sports",Sky Sports Football
+http://watchindia.net:8880/live/23712/28423/2093.ts
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="Sky Sports F1" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_F1.png" group-title="Sports",Sky Sports F1
+http://watchindia.net:8880/live/23712/28423/2094.ts
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="Sky Sports Arena" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Arena.png" group-title="Sports",Sky Sports Arena
+http://watchindia.net:8880/live/23712/28423/2095.ts
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="Sky Sports Golf" tvg-logo="https://watchindia.net/images/channels/sports/Sky_Sports_Golf.png" group-title="Sports",Sky Sports Golf
+http://watchindia.net:8880/live/23712/28423/2096.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 1
+http://watchindia.net:8880/live/23712/28423/1756.ts
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" group-title="Sports",Sony Ten 1 HD 2
+http://watchindia.net:8880/live/23712/28423/2215.ts
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_2_HD.png" group-title="Sports",Sony Ten 2 HD
+http://watchindia.net:8880/live/23712/28423/1757.ts
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_3_HD.png" group-title="Sports",Sony Ten 3 HD
+http://watchindia.net:8880/live/23712/28423/1758.ts
+#EXTINF:-1 tvg-id="sports18.in" tvg-name="Sports 18 HD" tvg-logo="https://watchindia.net/images/channels/sports/Sports_18.png" group-title="Sports",Sports 18 HD
+http://watchindia.net:8880/live/23712/28423/2423.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="Fox Sports 1" tvg-logo="https://watchindia.net/images/channels/usa/FS1.png" group-title="Sports",Fox Sports 1
+http://watchindia.net:8880/live/23712/28423/2421.ts
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD Sports" tvg-logo="https://watchindia.net/images/channels/sports/DD_Sports.png" group-title="Sports",DD Sports
+http://watchindia.net:8880/live/23712/28423/2380.ts
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 1" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Sports",Willow HD 1
+http://watchindia.net:8880/live/23712/28423/1067.ts
+#EXTINF:-1 tvg-id="willowcricket.us" tvg-name="Willow HD 2" tvg-logo="https://watchindia.net/images/channels/sports/Willow_HD.png" group-title="Sports",Willow HD 2
+http://watchindia.net:8880/live/23712/28423/2145.ts
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="https://watchindia.net/images/channels/sports/Astro_Cricket.png" group-title="Sports",Astro Cricket
+http://watchindia.net:8880/live/23712/28423/2174.ts
