@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-group="Doosralivetv" tvg-logo="https://fv5-2.failiem.lv/thumb_show.php?i=xs33remwt4&view&v=1", Doosralivetv 
+https://scontent.ffjr1-1.fna.fbcdn.net/v/t39.25447-2/440587451_1211996903492419_1653722189835790293_n.mp4?_nc_cat=111&cb=ad2fbaca-73ee6126&ccb=1-7&_nc_sid=9a5d50&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfZ2VuMmh3YmFzaWNfaHEyX2ZyYWdfMl92aWRlbyIsInZpZGVvX2lkIjoxMzgxNDExNzEyNDg5NDI2LCJxZV9ncm91cHMiOlsiZmJfZXZlcnN0b3JlX3RvX29pbDpmYl9kYXNoX2RlbGl2ZXJ5X29uX29pbF92Mjpjb250cm9sIl19&_nc_ohc=GH2P3p4ENqcQ7kNvgGxhDmC&_nc_rml=0&_nc_ht=scontent.ffjr1-1.fna&oh=00_AfBmdBC4yqJdfKaWfdXDGcj9tilAVltyZSeNDAIOkEoNHA&oe=663C6F84
+
+Live Sports 
+
+#EXTINF:-1 tvg-id="EPL Live"tvg-group="Live Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084654/Premier-League-logo.png", EPL live
+https://liatxc03dh.azureedge.net/live/usa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://scontent.ffab2-1.fna.fbcdn.net/v/t39.30808-6/438300988_886347363503765_5212860687817302738_n.jpg?stp=dst-jpg_e15_q60_s1440x1440_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_ht=scontent.ffab2-1.fna&_nc_cat=108&_nc_ohc=Ddjp4EC6-vAQ7kNvgFiV7SV&ccb=1-7&_nc_sid=5f2048&oh=00_AfCFpalJfGauy5wyATrVH-YTlO0WAkCUCxonFgglpusgSw&oe=663D01E8" group-title="Live Sports", T20 Series (Bangladesh vs Zimbabwe )
+http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",IPL 2024 (SRH vs MI)
+https://jancdn-b.bunycdn.com/live/720pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",IPL 2024 Hindi (SRH vs MI)
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Live Sports",La liga ()
+https://a2uy.short.gy/FCB-V-GIR/Manik-Chor-Xd/Join-@HimelOP_Official/Zubayer-Op.m3u8:
+
+
+IPL 2024
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="IPL 2024",T SPORTS HD
+http://103.151.60.214:7444/1101/video.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg" group-title="IPL 2024",T SPORTS
+https://emdftinya.tinyuri.org/auto/auto2.php
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",Star Sports 2
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",ATN National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live English
+https://bunyhlsipla.bunycdn.com/live/720pa.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="IPL 2024",IPL Live Hindi
+https://bunyhlsipla.bunycdn.com/live/1080pa.m3u8
+#EXTINF:-1 tvg-logo="" group-title="IPL 2024", Willow HD
+https://but1.jobdone.top:8088/live/webcricm04/playlist.m3u8?id=114515&pk=abf2a9678a0adbcb9bcd8fad8c793089bcfc4aba29f7300627072b42d4d2b48dd7206ddbf203801f5010cbcd74391f14120d12705c7d089beb04c478511d4b2b
 
 
 
