@@ -8,7 +8,7 @@ Live Sports
 #EXTINF:-1 tvg-id="EPL Live"tvg-group="Live Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084654/Premier-League-logo.png", EPL live
 https://liatxc03dh.azureedge.net/live/usa/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.ffab2-1.fna.fbcdn.net/v/t39.30808-6/438300988_886347363503765_5212860687817302738_n.jpg?stp=dst-jpg_e15_q60_s1440x1440_tt1_u&efg=eyJ1cmxnZW4iOiJ1cmxnZW5fZnJvbV91cmwifQ&_nc_cid=0&_nc_ad=z-m&_nc_ht=scontent.ffab2-1.fna&_nc_cat=108&_nc_ohc=Ddjp4EC6-vAQ7kNvgFiV7SV&ccb=1-7&_nc_sid=5f2048&oh=00_AfCFpalJfGauy5wyATrVH-YTlO0WAkCUCxonFgglpusgSw&oe=663D01E8" group-title="Live Sports", T20 Series (Bangladesh vs Zimbabwe )
-http://176.119.29.52/live/00:1A:79:D5:3F:0C/0C219CAACF826/48010.m3u8
+http://103.151.60.214:7444/1101/video.m3u8
 #EXTINF:-1 tvg-id="Champions league (PSG vs DORTMUND)"tvg-group="Live Sports" tvg-logo="https://i.ibb.co/CtSPX3C/Psg-Vs-Dortmund.jpg", Champions League (PSG vs DORTMUND)
 https://m3u8us.aepay.shop/jWfo7e66tw-_c-k-WatGFA/1715128105/uk_bts1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Live Sports",IPL 2024 (SRH vs MI)
