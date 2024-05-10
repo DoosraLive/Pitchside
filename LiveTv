@@ -46,12 +46,14 @@ Bangladesh TV
 
 #EXTINF:-1 tvg-id="Deepto Tv"tvg-group="Bangladesh TV" tvg-logo="https://images.app.goo.gl/HUWhRuJwv33QJABu8",Deepto TV
 https://livess.ncare.live/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Channel i"tvg-group="Bangladesh TV" tvg-logo="", Channel i
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-
 #EXTINF:-1 tvg-id="Ekhon Tv"tvg-group="Bangladesh TV" tvg-logo="",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="SA TV"tvg-group="Bangladesh TV" tvg-logo="",SA TV
 https://livess.ncare.live/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Bangla TV"tvg-group="Bangladesh TV" tvg-logo="",Bangla TV
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglatvhd.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOTowNjoyNiBQTSZoYXNoX3ZhbHVlPWE3OXgvZ2JvclUyR29CUGRRWTJSMHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
+https://byphdgllyk.gpcdn.net/hls/banglatvbd/index.m3u8
 #EXTINF:-1 tvg-id="Bangla Vision"tvg-group="Bangladesh TV" tvg-logo="",Bangla Vision
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxMzoyMiBQTSZoYXNoX3ZhbHVlPXNMdVA2YW5VTVFlRFJtYWcwOEFHeHc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1 tvg-id="Anandho Tv"tvg-group="Bangladesh TV" tvg-logo="",Anando TV
@@ -59,15 +61,25 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-id="ATN Bangla"tvg-group="Bangladesh TV" tvg-logo="",ATN Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbd-8-org.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjQgOToxNzowMiBQTSZoYXNoX3ZhbHVlPUdicG4yVWhPMDhranJIUU4yRWRMTFE9PSZ2YWxpZG1pbnV0ZXM9ND
 #EXTINF:-1 tvg-logo=""group-title="Bangladesh TV",Nexus TV
-http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
+https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Bangladesh TV",NTV
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
+#EXTINF:-1 tvg-id="Mohona Tv"tvg-group="Bangladesh TV" tvg-logo="", Mohona Tv
+http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+#EXTINF:-1 tvg-id="RTv"tvg-group="Bangladesh TV" tvg-logo="", Rtv
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NRB Tv"tvg-group="Bangladesh TV" tvg-logo="", NRB Tv
+https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nrb-eu.stream/mono.m3u8
+#EXTINF:-1 tvg-id="Ekushey Tv"tvg-group="Bangladesh TV" tvg-logo="", Ekushey Tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="Bangladesh TV",Green TV
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/GreenTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://tds-images.thedailystar.net/sites/default/files/styles/very_big_201/public/images/2022/10/05/duronto_1.jpg",group-title="Bangladesh TV",Duronto TV
 http://cdn01.palki.tv/live/Duronto-M/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Bangladesh TV", Channel 24
-http://cdn01.palki.tv/live/Channel24-M/index.m3u8
+#EXTINF:-1 tvg-id="Channel 9"tvg-group="Bangladesh TV" tvg-logo="", Channel 9
+http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1 tvg-id="Global Tv"tvg-group="Bangladesh TV" tvg-logo="", Global Tv
+http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",BishawBangla Tv
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Gazi Tv"tvg-group="Bangladesh TV" tvg-logo="", Gazi Tv
@@ -75,7 +87,7 @@ https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",B24C
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/b24c.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Bijoy Tv
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1a1/mono.m3u8
+http://cdn01.palki.tv/live/BijoyTV-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV", Movie Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/moviebanglalink2.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladesh TV",Boishaki Tv
@@ -92,21 +104,23 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 
 Bangladesh News 
 
-
+#EXTINF:-1 tvg-logo="" group-title="Bangladesh News", Channel 24
+http://cdn01.palki.tv/live/Channel24-M/index.m3u8
 #EXTINF:-1 tvg-id="Dbc News"tvg-group="Bangladesh News" tvg-logo="",Dbc News
 https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Jamuna TV"tvg-group="Bangladesh News" tvg-logo="",Jamuna TV
 https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="Ekattor Tv"tvg-group="Bangladesh News" tvg-logo="",Ekattor TV
-https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8
+http://cdn01.palki.tv:80/live/EkattorTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="SOMOY TV"tvg-logo="" tvg-group="Bangladesh News",SOMOY TV
 http://cdn01.palki.tv/live/SomoyTV-M/index.m3u8
 #EXTINF:-1 tvg-id="News 24"tvg-logo="" tvg-group="Bangladesh News",News 24
-https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/news24local.stream/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/channel_24/playlist.m3u8?md5=-mK_8u6ngtsyr8DKKjaRiw&expires=1715588302&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-id="Independent Tv"tvg-logo="" tvg-group="Bangladesh News", Independent Tv
-https://livess.jagobd.com.bd/live-orgin/independent-8-org.stream/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/independent_tv/playlist.m3u8?md5=Cc0gkqDApEpPNPF9VeTwDg&expires=1715588429&user=c15be118d93a464dabf77260596012cf
 #EXTINF:-1 tvg-id="Jago News 24"tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg" group-title="Bangladesh News",Jago News 24 
 https://livess.ncare.live/live-orgin/jagonews24.stream/chunks.m3u8
+
 
 
 Indian Bangla 
@@ -136,14 +150,17 @@ https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 Music Channel 
 
-#EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music",ATN Music Bangla
 https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Gaan Bangla"tvg-group="Music" tvg-logo="",Gaan Bangla
+http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music", Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Music",MTV Beats
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+#EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
 
 Infotainment Channel 
