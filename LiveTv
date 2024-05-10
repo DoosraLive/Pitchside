@@ -288,6 +288,7 @@ http://145.239.5.177:8080/538/index.m3u8
 https://mhdsportv.com/crichd/stream.php?id=bbtsp1&e=.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Football ⚽", TNT Sport 2
 https://mhdsportv.com/crichd/stream.php?id=bbtsp2&e=.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Football ⚽", TNT Sport 2
 https://m3u8us.aepay.shop/yO9vioBDS5AfEhTlA7PLlg/1714813983/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Football ⚽", TNT Sport 3
 https://mhdsportv.com/crichd/stream.php?id=bbtsp3&e=.m3u8
