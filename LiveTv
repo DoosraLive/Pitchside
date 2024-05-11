@@ -319,7 +319,9 @@ http://watchindia.net:8880/live/23712/28423/2423.ts
 #EXTINF:-1 tvg-id="Fox sports 1 HD"tvg-logo="" group-title="Football ⚽",Fox Sports 1 HD
 http://watchindia.net:8880/live/23712/28423/2421.ts
 
-
+Movie 
+#EXTINF:-1 tvg-id="36 Farm House"tvg-group="Movie" tvg-logo="", 36 Farm House 
+http://fortv.cc:8080/movie/889090/097890/205383.mp4
 
 
 
