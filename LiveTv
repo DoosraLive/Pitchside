@@ -267,6 +267,9 @@ Cricket 🏏
 
 #EXTINF:-1 tvg-id="T Sports HD"tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png" group-title="Cricket 🏏", T SPORTS HD
 http://103.151.60.214:7444/1101/video.m3u8
+
+#EXTINF:-1 tvg-id="T Sports (IPTV)"tvg-logo="" group-title="Cricket 🏏",T Sports (IPTV)
+http://livetvbox.live:8080/live/Scott/Scott/113069.m3u8
 #EXTINF:-1 tvg-id="Star Sports1 HD"tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png?20221025095646", Star Sports1 HD
 http://watchindia.net:8880/live/83023/62335/2456.m3u8
 #EXTINF:-1 tvg-id="Star Sports1 HD"tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png?20221025095646", Star Sports 1 HD
@@ -277,7 +280,14 @@ http://watchindia.net:8880/live/23712/28423/1069.ts
 http://watchindia.net:8880/live/23712/28423/1070.ts
 #EXTINF:-1 tvg-id="Star sports Select 2 HD"tvg-logo="" group-title="Cricket 🏏",Star Sports Select 2 HD
 http://watchindia.net:8880/live/23712/28423/1071.ts
-
+#EXTINF:-1 tvg-id="Ten Sports HD"tvg-logo="" group-title="Cricket 🏏",Ten Sports HD
+http://livetvbox.live:8080/live/Scott/Scott/98.m3u8
+#EXTINF:-1 tvg-id="Ten Cricket HD"tvg-logo="" group-title="Cricket 🏏",Ten Cricket HD
+http://livetvbox.live:8080/live/Scott/Scott/9886.m3u8
+#EXTINF:-1 tvg-id="StarzPlay Criclife 1 HD"tvg-logo="" group-title="Cricket 🏏",StarzaPlay Criclife 1 HD
+http://livetvbox.live:8080/live/Scott/Scott/123061.m3u8
+#EXTINF:-1 tvg-id="StarzPlay Criclife 2 HD"tvg-logo="" group-title="Cricket 🏏",StarzaPlay Criclife 2 HD
+http://livetvbox.live:8080/live/Scott/Scott/123062.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket HD" tvg-logo="" group-title="Cricket 🏏",Sky sports Cricket HD
 https://cdn-1.bdiptv24.line.pm/live/Sky/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sports Cricket HD"tvg-logo="" group-title="Cricket 🏏",Sky sports Cricket HD
