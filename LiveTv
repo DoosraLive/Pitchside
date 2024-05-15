@@ -195,11 +195,12 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Music", Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/index.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Music",MTV Beats
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Music",MTV Beats Hd
+http://mixbix.xyz:8080/live/9308861139/6204212992/237328.m3u8
 #EXTINF:-1 tvg-id="9XM"tvg-group="Music" tvg-logo="",9XM
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-
+http://mixbix.xyz:8080/live/9308861139/6204212992/237321.m3u8
+#EXTINF:-1 tvg-id="B4U Music"tvg-group="Music" tvg-logo="",B4U Music
+http://mixbix.xyz:8080/live/9308861139/6204212992/237323.m3u8
 
 Infotainment Channel 
 
@@ -308,7 +309,7 @@ https://sltlivetestgcp.yuppcdn.net/120623/smil:eventtv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Cricket 🏏",PTV Sports 
 https://mhdsportv.com/crichd/stream.php?id=ptvpk&e=.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Cricket 🏏",A Sports HD
-https://mhdsportv.com/crichd/stream.php?id=asportshd&e=.m3u8
+http://mixbix.xyz:8080/live/9308861139/6204212992/236842.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Cricket 🏏", Willow Hd
 http://watchindia.net:8880/live/23712/28423/1067.ts
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Cricket 🏏", Willow Hd
@@ -370,7 +371,12 @@ http://watchindia.net:8880/live/23712/28423/2421.ts
 Movie 
 #EXTINF:-1 tvg-id="36 Farm House"tvg-group="Movie" tvg-logo="", 36 Farm House 
 http://fortv.cc:8080/movie/889090/097890/205383.mp4
-
-
-
+#EXTINF:-1 tvg-id="Fighter"tvg-group="Movie" tvg-logo="", Fighter
+http://mixbix.xyz:8080/movie/9308861139/6204212992/300715.mkv
+#EXTINF:-1 tvg-id="CRAKK"tvg-group="Movie" tvg-logo="", CRAKK
+http://mixbix.xyz:8080/movie/9308861139/6204212992/301831.mkv
+#EXTINF:-1 tvg-id="YODHAtvg-group="Movie" tvg-logo="", YODHA
+http://mixbix.xyz:8080/movie/9308861139/6204212992/301830.mkv
+#EXTINF:-1 tvg-id="SHAITAN"tvg-group="Movie" tvg-logo="", SHAITAN
+http://mixbix.xyz:8080/movie/9308861139/6204212992/301862.mkv
 
