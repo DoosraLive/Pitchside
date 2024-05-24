@@ -148,11 +148,14 @@ http://170.254.18.107/COLORS/index.m3u8
 http://170.254.18.107/ZEECINEMA/index.m3u8
 #EXTINF:-1 tvg-id=""tvg-group="Indian Movie" tvg-logo="https://e7.pngegg.com/pngimages/434/503/png-clipart-black-and-white-movie-club-clapboard-art-film-logo-cinema-movie-logo-s-film-action-film.png",Movie Club
 https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
-
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
-#EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
+#EXTINF:-1 tvg-id="Colors Cineplex"tvg-logo="" group-title="Indian Movie",Colors Cineplex
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=12693&deviceMac=00:1A:79:2C:7A:34
+#EXTINF:-1 tvg-id="Star Gold HD"tvg-logo="" group-title="Indian Movie",Star Gold HD
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=12693&deviceMac=00:1A:79:2C:7A:34
+#EXTINF:-1 tvg-id="Star Gold 2"tvg-logo="" group-title="Indian Movie",Star Gold 2
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=12693&deviceMac=00:1A:79:2C:7A:34
+#EXTINF:-1 tvg-id="Sony Max"tvg-logo="" group-title="Indian Movie",Sony Max
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=12693&deviceMac=00:1A:79:2C:7A:34
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Indian Movie",Zee Cinema Uk
