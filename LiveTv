@@ -268,8 +268,7 @@ https://live.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 Cricket 🏏 
 
 #EXTINF:-1 tvg-id="T Sports HD"tvg-logo="https://www.tsports.com/img/logo/tsports-1200x630px.png" group-title="Cricket 🏏", T SPORTS HD
-http://103.151.60.214:7444/1101/video.m3u8
-
+http://starshare.live:8080/live/Sylvia/Sylvia/18452.m3u8
 #EXTINF:-1 tvg-id="T Sports (IPTV)"tvg-logo="" group-title="Cricket 🏏",T Sports (IPTV)
 http://livetvbox.live:8080/live/Scott/Scott/113069.m3u8
 #EXTINF:-1 tvg-id="Star Sports1 HD"tvg-logo="" group-title="Cricket 🏏" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/800px-Star_Sports_1_HD.png?20221025095646", Star Sports1 HD
