@@ -9,10 +9,10 @@ https://scontent.ffjr1-1.fna.fbcdn.net/v/t39.25447-2/440587451_1211996903492419_
 
 Live Sports 
 
-#EXTINF:-1 tvg-id="EPL Live"tvg-group="Live Sports" tvg-logo="https://assets.turbologo.com/blog/en/2020/01/19084654/Premier-League-logo.png", EPL live
-https://liatxc03dh.azureedge.net/live/usa/playlist.m3u8
-#EXTINF:-1 ttvg-id=""tvg-logo="https://www.shutterstock.com/image-vector/rawat-islamabad-25-december-2023-260nw-2404716543.jpg" group-title="Live Sports",T20 Series (Bangladesh vs U.S.A )
-https://tv.durbinlive.com/api/live/onlive.m3u8
+#EXTINF:-1 tvg-id="T20 WC 24 Live"tvg-group="Live Sports" tvg-logo="https://ibb.co/4jrJGxH", T20 WC 24 live
+https://mhdmaxtv.me/beesport/live.m3u8?id=12
+#EXTINF:-1 ttvg-id="T20 WC Toffee English"tvg-logo="https://ibb.co/4jrJGxH" group-title="Live Sports",T20 WC Toffee English
+https://mominvaithanks.xyz/mominRocks/kCfzQ_toffe.php?live=https://mprod-cdn.toffeelive.com/live/match-1/master_1300.m3u8
 #EXTINF:-1 tvg-id=""tvg-logo="" group-title="Live Sports",IPL 2024 Jio Cinema
 http://46.229.251.19/live/rvdgdf7647564/bvchgfd235454/304279.m3u8?token=ShJcU0BbQQNHWlYID1dXXQAHVFZUUVNUVFNbVF0CBwQGAlYFBFVQDlwbGBpEF0dcWF1vWQIXXlIBVlAAXEgRR0JVRm1aV0EDRwwDDwNXBxsVEkRZC1BGWwFOQEcMABEIEwYDBQcGUxtJG1FAQwZHV1hcb1QDQw0CVEBYWRAIXx4TX1ptV1YOWAtdFgIVUxcVG1lDQEQPChRdDk4VBw1HQFBEURAJEVIKVwgWFBUAWkxXREJJRA9GJnNAThUAHEdXX0NdXV0RWRsICkEAFU8XUEpvQlUVQRYEUA8HRUdeEQITHBZfUks8WgpXWl1UF1xWV0MSCkQERk0TDw1ZDBBcQG5AXVYRCUEIUgoNCgdXF0Q=
 #EXTINF:-1 tvg-id="Champions league (PSG vs DORTMUND)"tvg-group="Live Sports" tvg-logo="https://i.ibb.co/CtSPX3C/Psg-Vs-Dortmund.jpg", Champions League (PSG vs DORTMUND)
